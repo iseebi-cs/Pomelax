@@ -158,6 +158,10 @@ rm -f "$(xdg-user-dir DESKTOP 2>/dev/null || echo ~/Desktop)/pomelax.desktop"
 rm -rf ~/.config/pomelax
 rm -rf ~/.local/share/pomelax
 ```
+## 今後の予定
+
+- 送信をファイル添付形式でも送れるように（長文対応）
+- 受信メッセージのワンタッチコピーボタン
 
 ## ライセンス
 

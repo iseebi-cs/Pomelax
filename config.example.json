@@ -1,0 +1,9 @@
+{
+  "slack_bot_token": "",
+  "channel_id": "",
+  "incoming_webhook_url": "",
+  "receive_folder": "",
+  "send_folder": "",
+  "fetch_count": 50,
+  "extensions": [".txt", ".md"]
+}

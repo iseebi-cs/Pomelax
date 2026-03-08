@@ -163,7 +163,7 @@ self.root.geometry("800x480")
 ## サポート
 
 上記で解決しない場合は、GitHub の Issues でお問い合わせください：
-[https://github.com/[ユーザー名]/pomelax/issues](https://github.com/[ユーザー名]/pomelax/issues)
+[https://github.com/iseebi-cs/pomelax/issues](https://github.com/iseebi-cs/pomelax/issues)
 
 報告時は以下の情報を含めてください：
 - OS・ディストリビューション（例：Debian bullseye、Raspberry Pi OS 等）

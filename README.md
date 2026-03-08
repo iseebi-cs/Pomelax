@@ -164,3 +164,6 @@ rm -rf ~/.local/share/pomelax
 CC BY-NC 4.0（非営利限定）
 
 詳細は [LICENSE](LICENSE) ファイルを参照してください。
+
+♡
+https://ko-fi.com/iseebi
